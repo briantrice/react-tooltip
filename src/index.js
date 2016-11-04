@@ -49,7 +49,7 @@ class ReactTooltip extends Component {
   };
 
   static defaultProps = {
-    insecure: true,
+    insecure: false,
     resizeHide: true
   };
 
